@@ -1,0 +1,12 @@
+2023-04-03 02:15:39.212826 - Initialized conversion of CBT729
+2023-04-03 02:15:39.304951 - Received CBT.V504.FILE729.PDS from FILE729.XMI 
+2023-04-03 02:15:39.307546 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE729.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:15:39.308542 - Found $$DOC.txt (text/plain) in CBT.V504.FILE729.PDS, moved to PDS/$$DOC
+2023-04-03 02:15:39.310586 - De-xmi-ed $MSWDOC to CBT729/docs/$MSWDOC.doc
+2023-04-03 02:15:39.311707 - Found $README.txt (text/plain) in CBT.V504.FILE729.PDS, moved to PDS/$README
+2023-04-03 02:15:39.312827 - Found @FILE729.txt (text/plain) in CBT.V504.FILE729.PDS, moved to PDS/@FILE729
+2023-04-03 02:15:39.313814 - Found FTPDIR.rexx (text/plain) in CBT.V504.FILE729.PDS, moved to PDS/FTPDIR
+2023-04-03 02:15:39.314821 - Found GETJOBN.rexx (text/plain) in CBT.V504.FILE729.PDS, moved to PDS/GETJOBN
+2023-04-03 02:15:39.315941 - Found MAXITRAN.rexx (text/plain) in CBT.V504.FILE729.PDS, moved to PDS/MAXITRAN
+2023-04-03 02:15:39.316949 - Found PROC.txt (text/plain) in CBT.V504.FILE729.PDS, moved to PDS/PROC
+2023-04-03 02:15:39.317893 - Found README.txt (text/plain) in CBT.V504.FILE729.PDS, moved to PDS/README
