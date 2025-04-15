@@ -1,11 +1,11 @@
-2025-04-15 05:02:40.979659 - Received CBT.V508.FILE729.PDS from FILE729.XMI 
-2025-04-15 05:02:40.980790 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/$$$#DATE
-2025-04-15 05:02:40.981321 - Found $$DOC.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/$$DOC
-2025-04-15 05:02:40.982036 - Found $MSWDOC.doc (application/msword) in CBT.V508.FILE729.PDS, moved to docs/$MSWDOC.doc
-2025-04-15 05:02:40.982382 - Found $README.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/$README
-2025-04-15 05:02:40.982701 - Found @FILE729.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/@FILE729
-2025-04-15 05:02:40.983047 - Found FTPDIR.rexx (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/FTPDIR
-2025-04-15 05:02:40.983412 - Found GETJOBN.rexx (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/GETJOBN
-2025-04-15 05:02:40.984140 - Found MAXITRAN.rexx (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/MAXITRAN
-2025-04-15 05:02:40.984528 - Found PROC.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/PROC
-2025-04-15 05:02:40.984873 - Found README.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/README
+2025-04-15 23:44:50.350532 - Received CBT.V508.FILE729.PDS from FILE729.XMI 
+2025-04-15 23:44:50.351911 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:44:50.352277 - Found $$DOC.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/$$DOC
+2025-04-15 23:44:50.352970 - Found $MSWDOC.doc (application/msword) in CBT.V508.FILE729.PDS, moved to docs/$MSWDOC.doc
+2025-04-15 23:44:50.353275 - Found $README.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/$README
+2025-04-15 23:44:50.353332 - Found @FILE729.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/@FILE729
+2025-04-15 23:44:50.353666 - Found FTPDIR.rexx (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/FTPDIR
+2025-04-15 23:44:50.353997 - Found GETJOBN.rexx (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/GETJOBN
+2025-04-15 23:44:50.354688 - Found MAXITRAN.rexx (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/MAXITRAN
+2025-04-15 23:44:50.355030 - Found PROC.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/PROC
+2025-04-15 23:44:50.355334 - Found README.txt (text/plain) in CBT.V508.FILE729.PDS, moved to PDS/README
